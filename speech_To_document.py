@@ -1,3 +1,5 @@
+# Program that takes pdf and text files as input and converts them to audio
+
 from PyPDF2 import PdfReader
 from gtts import gTTS
 import os
