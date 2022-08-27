@@ -1,1 +1,1 @@
-# Python_Studies
+# Projects developed in Python environment
